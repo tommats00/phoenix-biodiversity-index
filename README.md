@@ -18,8 +18,6 @@ phoenix-biodiversity-index
 |   README.md
 |   phoenix-biodiversity.ipynb
 │   
-│
-└── houston-blackouts_files
 ```
 
 ### Highlights of analysis
