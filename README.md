@@ -1,12 +1,25 @@
 # Phoenix Biodiversity Intactness Index
 #### Author: Tom Gibbens-Matsuyama 
-
 [GitHub Repository](https://github.com/tommats00/phoenix-biodiversity-index)
+
+![](https://www.maricopamatters.com/img/t200c4d949784189ad86ff2128135a1ed.jpg?29)
+Image Credit: Kathleen Nulph 
 
 ## About
 
 ### Purpose
-Maricopa County has had the highest increase in developement since 2001 in the U.S. This rapid developement can have detrimental affects on the nearby ecosystems. The purpose of this repository is to analyze Biodiversity Intactness Index (BII) data from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) to assess the effects of this urbanization. Data will be compared and analyzed to discuss the difference in BII from 2017 to 2020. 
+Maricopa County has had the highest increase in developement since 2001 in the U.S. This rapid developement can have detrimental affects on the nearby ecosystems. The purpose of this repository is to analyze Biodiversity Intactness Index (BII) data from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) to assess the effects of this urbanization. Data will be compared and analyzed to discuss the difference in BII from 2017 to 2020 in the greater Phoenix metropolitan area. 
+
+### Structure
+```{r}
+phoenix-biodiversity-index  
+│   .gitignore
+|   README.md
+|   phoenix-biodiversity.ipynb
+│   
+│
+└── houston-blackouts_files
+```
 
 ### Highlights of analysis
 - Load in vector data using `gpd`
