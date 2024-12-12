@@ -14,11 +14,12 @@ Maricopa County has had the highest increase in developement since 2001 in the U
 ### Structure
 ```{r}
 phoenix-biodiversity-index  
-│_  .gitignore
-|_  README.md
-|_  phoenix-biodiversity.ipynb
+│───.gitignore
+|───README.md
+|───phoenix-biodiversity.ipynb
 │   
 ```
+
 
 ### Highlights of analysis
 - Load in vector data using `gpd`
