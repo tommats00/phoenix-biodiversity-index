@@ -1,6 +1,5 @@
 # Phoenix Biodiversity Intactness Index
 #### Author: Tom Gibbens-Matsuyama 
-[GitHub Repository](https://github.com/tommats00/phoenix-biodiversity-index)
 
 ![](https://www.maricopamatters.com/img/t200c4d949784189ad86ff2128135a1ed.jpg?29)
 
